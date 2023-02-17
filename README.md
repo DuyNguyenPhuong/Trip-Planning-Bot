@@ -1,6 +1,6 @@
 # Trip Planning Bot
 
-![My Image](images/Budapest.png)
+![My Image](images/Budapest.gif)
 
 
 ### Overview:
